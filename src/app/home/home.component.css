@@ -1,0 +1,6 @@
+.circle-wrapper {
+    height: 256px;
+    circle: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+ }
